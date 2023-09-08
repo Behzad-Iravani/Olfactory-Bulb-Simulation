@@ -1,1 +1,1 @@
-# OlfactoryBulb
+# Simulating the Olfactory Bulb spectrogram 
